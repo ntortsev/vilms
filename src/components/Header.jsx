@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function Header() {
   return (
     <div className="header">
-      <Link to="/vlims">
+      <Link to="/vilms">
         <div className="header__logo">Vilm</div>
       </Link>
       <form className="header__search">

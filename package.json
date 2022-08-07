@@ -2,7 +2,7 @@
   "name": "vilm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ntortsev.github.io/vilm/",
+  "homepage": "https://ntortsev.github.io/vilms/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
