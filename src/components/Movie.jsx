@@ -3,7 +3,7 @@ import CartItem from './CartItem';
 import { Link } from 'react-router-dom';
 import { useDispatch } from 'react-redux';
 import { selectMovie } from '../Redux/action';
-//f
+
 function Movie({ items }) {
   const dispatch = useDispatch();
   const onClickCart = (item) => {

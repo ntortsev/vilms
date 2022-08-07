@@ -8,7 +8,7 @@ function SelectMovie() {
 
   return (
     <div className="movie_page">
-      <img width={300} src={item.posterUrl} alt="img" />
+      <img width={500} src={item.posterUrl} alt="img" />
       <div className="flex">
         <div className="movie_page-info">
           <h1>
