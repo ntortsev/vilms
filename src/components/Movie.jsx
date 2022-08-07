@@ -14,7 +14,7 @@ function Movie({ items }) {
       <h1>Trending Movies</h1>
       <div className="items">
         {items.map((item) => (
-          <Link onClick={() => onClickCart(item)} key={item.filmId} to="/vlim/movie">
+          <Link onClick={() => onClickCart(item)} key={item.filmId} to="/vlims/movie">
             <CartItem item={item} />
           </Link>
         ))}

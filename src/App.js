@@ -28,8 +28,8 @@ function App() {
     <div>
       <Header />
       <Routes>
-        <Route path="/vlim" element={<Movie items={items} />} />
-        <Route path="/vlim/movie" element={<SelectMovie />} />
+        <Route path="/vlims" element={<Movie items={items} />} />
+        <Route path="/vlims/movie" element={<SelectMovie />} />
       </Routes>
       {/* <Footer /> он все ломает*/}
     </div>
