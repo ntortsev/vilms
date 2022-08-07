@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vilms/static/css/main.68d879b2.css",
+    "main.js": "/vilms/static/js/main.2d1a89d3.js",
+    "static/media/eva_search-outline.svg": "/vilms/static/media/eva_search-outline.fbe0bc9c9b921caf20bada309f2f5654.svg",
+    "index.html": "/vilms/index.html",
+    "static/media/ant-design_star-filled.svg": "/vilms/static/media/ant-design_star-filled.1014aa5b2a0e80226b7a5d8917764799.svg",
+    "main.68d879b2.css.map": "/vilms/static/css/main.68d879b2.css.map",
+    "main.2d1a89d3.js.map": "/vilms/static/js/main.2d1a89d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68d879b2.css",
+    "static/js/main.2d1a89d3.js"
+  ]
+}
